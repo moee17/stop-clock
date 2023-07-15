@@ -1,0 +1,31 @@
+* {
+	background-color: burlywood;
+	color: white;
+}
+
+h1,
+.time {
+	text-align: center;
+}
+
+.time {
+	font-size: 20px;
+}
+
+.btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 20px;
+}
+
+button {
+	margin: 10px;
+	height: 40px;
+	width: 80px;
+	background-color: beige;
+	color: black;
+	border-radius: 5px;
+	border-color: rgb(48, 37, 37);
+	box-shadow: none;
+}
